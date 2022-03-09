@@ -38,6 +38,3 @@ Here are some ideas to get you started:
 <a href ="mailto:mattinelorza@gmail.com"/><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/>
 
 
-## Snake eating my contribution graph
-
-![snake gif](https://github.com/mattinelorza/mattinelorza/blob/output/github-contribution-grid-snake.svg)
