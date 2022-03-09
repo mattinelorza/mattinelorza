@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **mattinelorza/mattinelorza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Hi! 
+### Hi there 👋! 
 
 - 📚 I'm currently studying telecommunications engineering
 - 💻 I'm currently learning P4 & Python
