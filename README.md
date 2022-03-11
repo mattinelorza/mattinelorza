@@ -12,6 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div id="badges">
+  <a href="https://www.linkedin.com/in/mattin-elorza">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  
+</div>
 ### Hi there 👋! 
 
 - 📚 I'm currently studying telecommunications engineering
@@ -34,7 +40,7 @@ Here are some ideas to get you started:
 ## Connect with me
 <p align ="left">
     
-<a href =https://www.linkedin.com/in/mattin-elorza/><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+
 <a href ="mailto:mattinelorza@gmail.com"/><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/>
 
 
