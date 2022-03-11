@@ -18,6 +18,7 @@ Here are some ideas to get you started:
   </a>
   
 </div>
+
 ### Hi there 👋! 
 
 - 📚 I'm currently studying telecommunications engineering
