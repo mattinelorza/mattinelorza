@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 <a href =https://www.linkedin.com/in/mattin-elorza/><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
 
 
-# Top Languages
+# Top languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mattinelorza&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 # My stats
@@ -51,4 +51,5 @@ Here are some ideas to get you started:
 <p align="center" dir="auto">
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/ffbf71edb9eb65671926a8cc42a5a740bf5b799a9b93699a3a0de76e1793a80b/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f54456e586b637348725034596564436868412f67697068792e676966"><img src="https://camo.githubusercontent.com/ffbf71edb9eb65671926a8cc42a5a740bf5b799a9b93699a3a0de76e1793a80b/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f54456e586b637348725034596564436868412f67697068792e676966" width="200" height="200" data-canonical-src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" style="max-width: 100%;"></a></p>
 
+# Some jokes
 <p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/727b46e1d3fa1dc9460d1f7a8c4f4fb8a5523029a3389abf818bc1f95430b4ac/68747470733a2f2f726561646d652d6a6f6b65732e76657263656c2e6170702f617069"><img src="https://camo.githubusercontent.com/727b46e1d3fa1dc9460d1f7a8c4f4fb8a5523029a3389abf818bc1f95430b4ac/68747470733a2f2f726561646d652d6a6f6b65732e76657263656c2e6170702f617069" alt="Jokes Card" data-canonical-src="https://readme-jokes.vercel.app/api" style="max-width: 100%;"></a></p>
