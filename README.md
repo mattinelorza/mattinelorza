@@ -48,4 +48,5 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mattinelorza&theme=dark&background=000000)](https://git.io/streak-stats)
 
-
+<div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="mattin-elorza" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://es.linkedin.com/in/mattin-elorza?trk=profile-badge">Mattin Antartiko E.</a></div>
+              
