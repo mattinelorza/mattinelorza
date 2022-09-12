@@ -16,9 +16,8 @@ Here are some ideas to get you started:
 
 ### Hi there 👋! 
 
-- 📚 I'm currently studying telecommunications engineering
-- 💻 I'm currently learning P4 & Python
-- 🤔 I’m looking for help with SDN and P4
+- 📚 Master of Science on Telecommunications Engineering
+- 💻 Learning Python
 
 ## Technologies
 
