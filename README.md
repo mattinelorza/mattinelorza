@@ -40,11 +40,5 @@ Here are some ideas to get you started:
 <a href =https://www.linkedin.com/in/mattin-elorza/><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
 
 
-# Top languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mattinelorza&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-# My stats
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mattinelorza&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
