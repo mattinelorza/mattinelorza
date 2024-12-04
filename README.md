@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 
 ### Hi there 👋! 
 
-- 📚 Master of Science on Telecommunications Engineering
 - 💻 Telefónica I+D
 
 ## Technologies
